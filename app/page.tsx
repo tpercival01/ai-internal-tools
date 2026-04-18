@@ -5,12 +5,12 @@ export default function Home() {
 
         {/* HEADLINE */}
         <h1 className="text-4xl font-bold mb-4">
-          Small AI tools for busy teams — built in 72 hours
+          Small AI tools for busy teams - built in 72 hours
         </h1>
 
         {/* SUBTEXT */}
         <p className="text-lg mb-8">
-          I build simple, custom AI tools that remove repetitive work from your day — no enterprise complexity, no long timelines.
+          I build simple, custom AI tools that remove repetitive work from your day - no enterprise complexity, no long timelines.
         </p>
 
         {/* EXAMPLES */}
@@ -37,7 +37,7 @@ export default function Home() {
         {/* CTA */}
         <div className="mb-8">
           <h2 className="font-semibold mb-2">Get in touch:</h2>
-          <p>Email: your@email.com</p>
+          <p>Email: thomaspercival@live.co.uk</p>
           <p>LinkedIn: https://www.linkedin.com/in/thomaspercival</p>
         </div>
 
