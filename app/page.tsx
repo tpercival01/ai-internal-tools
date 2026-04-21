@@ -19,7 +19,7 @@ export default function Home() {
         <div className="w-full">
           <section className="mx-auto max-w-4xl text-center">
             <p className="mb-5 inline-flex rounded-full border border-zinc-200 bg-white px-4 py-2 text-sm font-medium text-zinc-600 shadow-sm">
-              Fast custom automation for small teams
+              Stop wasting hours manually checking spreadsheets.
             </p>
 
             <h1
@@ -75,11 +75,13 @@ export default function Home() {
                 Automate reporting workflows that waste hours every week.
               </p>
             </div>
+            <div classname="aspect-video max-w-4xl mx-auto mt-12 bg-zinc-200 rounded-2xl shadow-lg overflow-hidden"></div>
           </section>
+          
 
           <section className="mx-auto mt-8 max-w-5xl text-center">
             <p className="text-lg font-medium text-zinc-600 sm:text-xl">
-              Best for small businesses, agencies, and operations heavy teams.
+              Best for small businesses, agencies, and operations-heavy teams.
             </p>
           </section>
 
