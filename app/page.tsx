@@ -75,7 +75,7 @@ export default function Home() {
                 Automate reporting workflows that waste hours every week.
               </p>
             </div>
-            <div classname="aspect-video max-w-4xl mx-auto mt-12 bg-zinc-200 rounded-2xl shadow-lg overflow-hidden"></div>
+            <div className="aspect-video max-w-4xl mx-auto mt-12 bg-zinc-200 rounded-2xl shadow-lg overflow-hidden"></div>
           </section>
           
 
